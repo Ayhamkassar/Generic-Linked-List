@@ -1,0 +1,7 @@
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\bin\Debug\GenericLinkedList.exe.config
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\bin\Debug\GenericLinkedList.exe
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\bin\Debug\GenericLinkedList.pdb
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\obj\Debug\GenericLinkedList.csproj.AssemblyReference.cache
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\obj\Debug\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\obj\Debug\GenericLinkedList.exe
+C:\Users\DR.tech\source\repos\GenericLinkedList\GenericLinkedList\obj\Debug\GenericLinkedList.pdb
